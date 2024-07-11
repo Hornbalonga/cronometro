@@ -26,10 +26,6 @@ namespace cronometro
 
                     cronometro();
                     break;
-                case 2:
-
-
-                    break;
                
             }
 
